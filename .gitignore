@@ -30,3 +30,6 @@ htmlcov/
 
 # VS Code
 .vscode/
+
+# Local SQLite DB
+students.db
